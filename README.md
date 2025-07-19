@@ -1,6 +1,7 @@
 # GitHub-Project2
--Push Test
--Fetch Test
+- Push Test
+- Fetch Test
+- Pull Test
 ## 🛠 기능 엿보기
 
 ### Header
